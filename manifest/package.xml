@@ -14,7 +14,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>LightningComponentBundle</name>
+        <name>LightningComponentBundles</name>
     </types>
     
     <version>47.0</version>
